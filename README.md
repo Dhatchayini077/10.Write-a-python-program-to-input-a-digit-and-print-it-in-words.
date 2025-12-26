@@ -1,0 +1,1 @@
+# 10.Write-a-python-program-to-input-a-digit-and-print-it-in-words.
